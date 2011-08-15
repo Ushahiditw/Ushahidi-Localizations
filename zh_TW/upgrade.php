@@ -3,10 +3,10 @@
 	'upgrade' => array(
 		'between' => 'Invalid input data. It can either be 0 for No and 1 for Yes.',
 	),
-	'upgrade_automatic' => 'Automatic Upgrade',
+	'upgrade_automatic' => '自動更新',
 	'upgrade_available' => 'Available Updates',
-	'upgrade_continue_btn_text' => 'Continue',
-	'upgrade_db_btn_text' => 'Upgrade',
+	'upgrade_continue_btn_text' => '繼續',
+	'upgrade_db_btn_text' => '更新',
 	'upgrade_db_text_1' => 'So, I\'m going to upgrade your database from version',
 	'upgrade_db_text_2' => 'to the newest database version',
 	'upgrade_db_text_3' => 'Click on the "Upgrade" button and just chilax as I perform the magic.',
